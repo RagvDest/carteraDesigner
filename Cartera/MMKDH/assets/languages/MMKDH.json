@@ -1,10 +1,13 @@
 {
-    "MMKDH": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMKDH": {
+		"LBL": {
+			"LBL_MMKDH_APELLIDOO_76540": "Apellido",
+			"LBL_MMKDH_CEDULATSZ_69082": "Cedula",
+			"LBL_MMKDH_NACIONAID_10487": "Nacionalidad",
+			"LBL_MMKDH_NOMBRERRQ_25737": "Nombre",
+			"LBL_MMKDH_SEXOMWILK_31906": "Sexo"
+		},
+		"MSG": {
+		}
+	}
 }

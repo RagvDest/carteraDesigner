@@ -6,5 +6,18 @@
 		"EN_CUENTAZKV_107": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMF": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMKDHWNALZYAM_106": {
+				"name": "FormCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
