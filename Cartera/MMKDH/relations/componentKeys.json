@@ -11,6 +11,9 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_MMKDHYYKLLRWS_718": {
+				"name": "FormCuenta"
+			},
 			"T_MMKDHWNALZYAM_106": {
 				"name": "FormCliente"
 			}
