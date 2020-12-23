@@ -82,6 +82,51 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
+									"$ref": "../../../../MMKDH/entities/EN_CLIENTEFG_315.json#/attributes/AT44_IDCLIEET315"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMKDH/assets/languages/MMKDH.json#/MMKDH/LBL/LBL_MMKDH_IDCLIENTE_80303"
+									},
+									"labelId": "LBL_MMKDH_IDCLIENTE_80303",
+									"moduleId": "MMKDH"
+								},
+								"maxRecords": null,
+								"name": "idCliente",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_IDCLIENTEQFRIZL_806120",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
 									"$ref": "../../../../MMKDH/entities/EN_CLIENTEFG_315.json#/attributes/AT66_NACIONLD315"
 								},
 								"attributeValidations": [

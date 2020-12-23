@@ -12,6 +12,38 @@
 		}
 	},
 	"Forms": {
+		"T_MMKDHWNALZYAM_106": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEFG_315": [
+					"AT34_SEXOIRHY315",
+					"AT41_NOMBREZI315",
+					"AT44_IDCLIEET315",
+					"AT57_CEDULASM315",
+					"AT66_NACIONLD315",
+					"AT83_APELLIOD315"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMKDH_APELLIDOO_76540",
+				"LBL_MMKDH_CEDULATSZ_69082",
+				"LBL_MMKDH_IDCLIENTE_80303",
+				"LBL_MMKDH_NACIONAID_10487",
+				"LBL_MMKDH_NOMBRERRQ_25737",
+				"LBL_MMKDH_SEXOMWILK_31906"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_MMKDHYYKLLRWS_718": {
 			"blis": [
 			],
@@ -30,36 +62,6 @@
 			"labels": [
 				"LBL_MMKDH_SALDOEXPV_12017",
 				"LBL_MMKDH_TIPODNJHP_93059"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
-		"T_MMKDHWNALZYAM_106": {
-			"blis": [
-			],
-			"entities": {
-				"EN_CLIENTEFG_315": [
-					"AT34_SEXOIRHY315",
-					"AT41_NOMBREZI315",
-					"AT57_CEDULASM315",
-					"AT66_NACIONLD315",
-					"AT83_APELLIOD315"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_MMKDH_APELLIDOO_76540",
-				"LBL_MMKDH_CEDULATSZ_69082",
-				"LBL_MMKDH_NACIONAID_10487",
-				"LBL_MMKDH_NOMBRERRQ_25737",
-				"LBL_MMKDH_SEXOMWILK_31906"
 			],
 			"queries": {
 			},
