@@ -1,0 +1,188 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "MMKDH",
+		"subModuleId": "SSMMF",
+		"taskId": "T_MMKDHYYKLLRWS_718",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_CUENTAEEUA_660718",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../MMKDH/relations/componentKeys.json#/SSMMF/Forms/T_MMKDHYYKLLRWS_718/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "MMKDH",
+				"subModuleId": "SSMMF",
+				"taskId": "T_MMKDHYYKLLRWS_718",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_CUENTAEEUA_660718"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "FormCuenta",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../MMKDH/entities/EN_CUENTAZKV_107.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_CUENTAQAEB_108638",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1952",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMKDH/entities/EN_CUENTAZKV_107.json#/attributes/AT39_SALDODRZ107"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMKDH/assets/languages/MMKDH.json#/MMKDH/LBL/LBL_MMKDH_SALDOEXPV_12017"
+									},
+									"labelId": "LBL_MMKDH_SALDOEXPV_12017",
+									"moduleId": "MMKDH"
+								},
+								"maxRecords": null,
+								"name": "saldo",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SALDOZYAQARTVEN_430638",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMKDH/entities/EN_CUENTAZKV_107.json#/attributes/AT11_TIPOJWNV107"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMKDH/assets/languages/MMKDH.json#/MMKDH/LBL/LBL_MMKDH_TIPODNJHP_93059"
+									},
+									"labelId": "LBL_MMKDH_TIPODNJHP_93059",
+									"moduleId": "MMKDH"
+								},
+								"maxRecords": null,
+								"name": "tipo",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TIPOTPYQPXXHDBU_964638",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_CUENTAZJMK_638"
+				},
+				"metadataVersion": "7.2.0.2019",
+				"modules": [
+					{
+						"moduleId": "MMKDH"
+					}
+				],
+				"name": "View of FormCuenta"
+			}
+		}
+	]
+}

@@ -1,10 +1,14 @@
 {
-    "MMKDH": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMKDH": {
+		"LBL": {
+			"LBL_MMKDH_ESTADOCAU_68005": "EstadoCuenta",
+			"LBL_MMKDH_IDFINKZNG_20399": "ID",
+			"LBL_MMKDH_NOMBREXAP_29487": "nombre",
+			"LBL_MMKDH_SALDOEXPV_12017": "Saldo",
+			"LBL_MMKDH_TIPODNJHP_93059": "Tipo",
+			"LBL_MMKDH_VALORBKQQ_76180": "Valor"
+		},
+		"MSG": {
+		}
+	}
 }

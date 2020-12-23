@@ -1,4 +1,6 @@
 {
+	"CompositeForms": {
+	},
 	"Entities": {
 		"EN_CLIENTEFG_315": {
 			"labels": [
@@ -8,5 +10,33 @@
 			"labels": [
 			]
 		}
+	},
+	"Forms": {
+		"T_MMKDHYYKLLRWS_718": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTAZKV_107": [
+					"AT11_TIPOJWNV107",
+					"AT39_SALDODRZ107"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMKDH_SALDOEXPV_12017",
+				"LBL_MMKDH_TIPODNJHP_93059"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
 	}
 }
