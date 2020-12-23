@@ -1,14 +1,12 @@
 {
-	"CompositeForms": {
-	},
 	"Entities": {
+		"EN_CLIENTEFG_315": {
+			"labels": [
+			]
+		},
 		"EN_CUENTAZKV_107": {
 			"labels": [
 			]
 		}
 	},
-	"Forms": {
-	},
-	"Queries": {
-	}
 }

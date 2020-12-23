@@ -1,7 +1,11 @@
 {
 	"Entities": {
+		"EN_CLIENTEFG_315": {
+			"name": "Cliente"
+		},
 		"EN_CUENTAZKV_107": {
 			"name": "Cuenta"
 		}
+
 	}
 }
